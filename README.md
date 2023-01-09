@@ -10,6 +10,8 @@ LSTM.py: LSTM+Focal loss for DTI
 
 CNN.py: CNN+Focal loss for DTI
 
+The part of the code about federated leaning can refer to [FL](https://github.com/BeechburgPieStar/FLAMC)
+
 # Results
 
 ![image](https://user-images.githubusercontent.com/107237593/211349828-4b9ad38b-fc93-42b3-abef-1adcff4d9641.png)
