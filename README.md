@@ -19,3 +19,9 @@ The part of the code about federated leaning can refer to [FL](https://github.co
 # Dataset From [Mosseridan](https://github.com/Mosseridan/IoT-device-type-identification)
 link: https://pan.baidu.com/s/1bUu8jOdbaPseZqZJYbG4Uw 
 passwd：068q
+
+# License / 许可证
+
+本项目基于自定义非商业许可证发布，禁止用于任何形式的商业用途。
+
+This project is distributed under a custom non-commercial license. Any form of commercial use is prohibited.
